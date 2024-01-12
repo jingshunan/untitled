@@ -13,5 +13,6 @@ public class gittest {
         System.out.println("hello git4!");
         System.out.println("hello git4hot-fix!");
         System.out.println("hello git4push");
+        System.out.println("hello git4pull");
     }
 }
